@@ -1,0 +1,6 @@
+{
+  "name": "WP Dev Container",
+  "dockerComposeFile": ["docker-compose.yml"],
+  "service": "wordpress",
+  "workspaceFolder": "/var/www/html"
+}
